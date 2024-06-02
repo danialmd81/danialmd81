@@ -15,17 +15,33 @@
 <a href="https://www.linkedin.com/in/danial-mobini-dehkordy/">
   <img width="50" src="icons/LinkedIN.svg" alt="Linkedin">
 </a>
-<a href="https://github.com/danialmd81">
-  <img width="50" src="icons/github.svg" alt="GitHub">
+<a href="https://codeforces.com/profile/DanialMD81">
+  <img width="50" src="icons/Codeforces.colored.svg" alt="Code Forces">
+</a>
+<a href="https://stackoverflow.com/users/23159993/danial-mobini">
+  <img width="50" src="icons/StackOverflow-Dark.svg" alt="Stack Overflow">
+</a>
+<a href="https://quera.org/profile/Danialmd81">
+  <img width="50" src="icons/quera.svg">
 </a>
 <a href="mailto:danialmobinidh81@gmail.com">
-  <img width="50" src="icons/google-gmail.svg" alt="Gmail">
+  <img width="50" src="icons/Gmail-Dark.svg" alt="Gmail">
+</a>
+<a href="https://github.com/danialmd81">
+  <img width="50" src="icons/Github-Dark.svg" alt="GitHub">
 </a></div>
 
-<div align="left">
-  <h2 style="color:#7E84F7;font-size:4vw">💻 My Skils </h2>
-  <img width="50" src="">
-</div>
+<div align="left"><h2 style="color:#7E84F7;font-size:4vw">💻 My Skils </h2><img width="50" src="icons/C.svg">
+  <img width="50" src="icons/CPP.svg">
+  <img width="50" src="icons/Git.svg">
+  <img width="50" src="icons/QT-Dark.svg">
+  <img width="50" src="icons/GoLang.svg">
+  <img width="50" src="icons/Python-Dark.svg">
+  <img width="50" src="icons/Bash-Dark.svg">
+  <img width="50" src="icons/MySQL-Dark.svg">
+  <img width="50" src="icons/PostgreSQL-Dark.svg">
+  <img width="50" src="icons/VSCode-Dark.svg">
+  <img width="50" src="icons/Windows-Dark.svg"></div>
 
 <div align="left">
   <h2 class="section-heading" style="color:#808080;font-size:4vw"> 📏 Github Stats</h2>
