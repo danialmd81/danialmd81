@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7E602&background=65000000&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi...+I'm+Danial;This+is...;My+GitHub+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7E602&background=65000000&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B...+I'm+Danial;This+is...;My+GitHub+%F0%9F%91%80)](https://git.io/typing-svg)
 
+<h3 align="left">Computer Engineering Student in Isfahan University of Technology</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danialmd81&label=Profile%20views&color=0e75b6&style=flat" alt="danialmd81" /> </p>
 <!--
 Here are some ideas to get you started:
 
@@ -11,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
