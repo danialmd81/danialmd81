@@ -1,38 +1,37 @@
-<div align="center">
+<div align="left">
   <h1>
-  <img src="https://readme-typing-svg.demolab.com??font=Jetbrains+mono&amp;size=40&amp;duration=2000&amp;pause=1000&amp;multiline=false&amp;color=75FA61&amp;background=65000000&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=1000&amp;lines=Hi+%F0%9F%91%8B...+I'm+Danial; This+is...; My+GitHub+%F0%9F%91%80">
+  <img src="https://readme-typing-svg.demolab.com??font=Jetbrains+mono&amp;size=40&amp;duration=2000&amp;pause=1000&amp;multiline=false&amp;color=75FA61&amp;background=65000000&amp;left=true&amp;vleft=true&amp;random=false&amp;width=1000&amp;lines=Hi+%F0%9F%91%8B...+I'm+Danial; This+is...; My+GitHub+%F0%9F%91%80">
 </h1>
 </div>
 
-<div align="center">
+<div align="left">
   <h2 style="color:#DC143C">🚀 About Me</h2>
   <p>Computer Engineering Student in Isfahan University of Technology.</p>
 </div>
 
-<div align="center"><h2 align="center" class="section-heading" style="color:#00FFFF">🌐 Connect with Me</h2><a href="https://t.me/danialmd81">
+<div align="left"><h2 class="section-heading" style="color:#00FFFF">🌐 Connect with Me</h2><a href="https://t.me/danialmd81">
   <img src="icons/Telegram.svg">
 </a>
 <a href="https://www.linkedin.com/in/danial-mobini-dehkordy/">
   <img width="50" src="icons/LinkedIN.svg">
 </a>
-<a href="danialmobinidh81@gmail.com">
-  <img width="50" src="icons/github.svg">
-</a>
 <a href="https://github.com/danialmd81">
   <img width="50" src="icons/github.svg">
 </a>
-
+<a href="mailto:danialmobinidh81@gmail.com">
+  <img width="50" src="icons/google-gmail.svg">
+</a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=danialmd81&amp;style=for-the-badge"></div>
 
-<div align="center"><h2>🚀 Github Commits</h2><p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!
-</p><img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode">
-<img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"></div>
+<div align="left"><h2>🚀 Github Commits</h2><img src="https://raw.githubusercontent.com/danialmd81/danialmd81/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode">
+<img src="https://raw.githubusercontent.com/danialmd81/danialmd81/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"></div>
 
 # 💻 Programming Languages
 
 As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions
 
-<div align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
+<div align="left"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badgelogo=javascript&amp;logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badgelogo=powershell&amp;logoColor=white" alt="PowerShell">
@@ -45,7 +44,7 @@ As a multifaceted engineer, I've developed proficiency in a diverse set of progr
 
 In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:
 
-<div align="center"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS">
+<div align="left"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="GCP">
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform">
@@ -57,7 +56,7 @@ In the dynamic realm of cloud computing, I am proficient in leveraging leading c
 
 Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality
 
-<div align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+<div align="left"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&amp;logo=svelte&amp;logoColor=white" alt="Svelte">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="npm">
@@ -75,7 +74,7 @@ Frameworks are the backbone of my development process, providing the structure a
 
 In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.
 
-<div align="center"><img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&amp;logo=unreal-engine&amp;logoColor=white" alt="Unreal Engine">
+<div align="left"><img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&amp;logo=unreal-engine&amp;logoColor=white" alt="Unreal Engine">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/3DS_Max-0696D7?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" alt="3DS Max">
   <img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" alt="Maya">
@@ -86,19 +85,23 @@ In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Rea
   <img src="https://img.shields.io/badge/ArchiCAD-0081CF?style=for-the-badge" alt="ArchiCAD">
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&amp;logo=oculus&amp;logoColor=white" alt="Oculus"></div>
 
-<div align="center">
-  <h2 align="center" class="section-heading"> 
+<div align="left">
+  <h2 align="left" class="section-heading"> 
 💻 Github Stats
 </h2>
   <p>
 Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!
 </p>
   <br>
-  <table align="center" width="100%" height="100%">
+  <table align="left" width="100%" height="100%">
   <tbody><tr><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&amp;theme=github_dark" alt="Zane's GitHub Stats"></td><td><img style="border: none; " src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&amp;theme=merko" alt="Zane's Contribution Streak"></td></tr></tbody>
 </table>
   <br>
-  <table align="center" width="100%" height="100%">
+  <table align="left" width="100%" height="100%">
   <tbody><tr><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&amp;theme=github_dark" alt="Zane's GitHub Stats"></td><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&amp;theme=github_dark&amp;utcOffset=10" alt="Zane's GitHub Stats"></td><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&amp;theme=github_dark" alt="Zane's GitHub Stats"></td><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&amp;theme=github_dark" alt="Zane's GitHub Stats"></td></tr></tbody>
 </table>
 </div>
+
+]()]()](mailto:danialmobinidh81@gmail.com)
+
+[](mailto:danialmobinidh81@gmail.com)[]()[](]()<https://github.com/danialmd81>)
