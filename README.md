@@ -47,10 +47,10 @@
   <h2 class="section-heading" style="color:#808080;font-size:4vw"> 📏 Github Stats</h2>
   <br>
   <table align="left" width="100%" height="100%">
-  <tbody><tr><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danialmd81&amp;theme=github_dark" alt="My GitHub Stats"></td><td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=danialmd81&amp;theme=merko" alt="My Contribution Streak"></td></tr></tbody>
+  <tbody><tr><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danialmd81&amp;theme=dracula" alt="My GitHub Stats"></td><td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=danialmd81&amp;theme=dracula&amp;date_format=j%20M%5B%20Y%5D" alt="My Contribution Streak"></td></tr></tbody>
 </table>
   <br>
   <table align="left" width="100%" height="100%">
-  <tbody><tr><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danialmd81&amp;theme=github_dark" alt="My GitHub Stats"></td><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danialmd81&amp;theme=github_dark&amp;utcOffset=10" alt="My GitHub Stats"></td><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danialmd81&amp;theme=github_dark" alt="My GitHub Stats"></td><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danialmd81&amp;theme=github_dark" alt="My GitHub Stats"></td></tr></tbody>
+  <tbody><tr><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danialmd81&amp;theme=dracula" alt="My GitHub Stats"></td><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danialmd81&amp;theme=dracula&amp;utcOffset=10" alt="My GitHub Stats"></td><td><img style="border: none; " src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danialmd81&amp;theme=dracula" alt="My GitHub Stats"></td><td><img style="border: none; " src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danialmd81&amp;theme=darcula" alt="My GitHub Stats"></td></tr></tbody>
 </table>
 </div>
