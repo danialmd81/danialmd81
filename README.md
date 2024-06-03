@@ -43,6 +43,17 @@
   <img width="50" src="icons/VSCode-Dark.svg">
   <img width="50" src="icons/Windows-Dark.svg"></div>
 
+<div align="left"><h2 style="color:#A1FB8E;font-size:3vw">🚨 To Learn
+</h2><img width="50" src="icons/Zig-Dark.svg">
+<img width="50" src="icons/HTML.svg">
+<img width="50" src="icons/Perl.svg">
+<img width="50" src="icons/Powershell-Dark.svg">
+<img width="50" src="icons/R-Dark.svg">
+<img width="50" src="icons/Markdown-Dark.svg">
+<img width="50" src="icons/CMake-Dark.svg">
+<img width="50" src="icons/Docker.svg">
+<img width="50" src="icons/Django.svg"></div>
+
 <div align="left">
   <h2 class="section-heading" style="color:#808080;font-size:4vw"> 📏 Github Stats</h2>
   <br>
