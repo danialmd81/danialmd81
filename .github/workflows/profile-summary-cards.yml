@@ -3,16 +3,16 @@ name: GitHub-Profile-Summary-Cards
 on:
   create:
   schedule: # execute every 2 hours
-    - cron: "* */2 * * *"
+    - cron: "* */02 * * *"
   workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
 
-build:
-  runs-on: ubuntu-latest
-  name: generate-github-cards
-  permissions:
-    contents: write
-
-  steps:
+    steps:
     - uses: actions/checkout@v2
     - uses: vn7n24fzkq/github-profile-summary-cards@release
       env:
