@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/danialmd81/danialmd81/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)
-```
-
-    
