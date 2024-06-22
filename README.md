@@ -58,7 +58,7 @@
   <h2 class="section-heading" style="color:#808080;font-size:4vw"> 📏 Github Stats</h2>
   <br>
   <table align="left" width="100%" height="100%">
-  <tbody><tr><td><img style="border: none; " src="https://github-readme-stats.vercel.app/api?username=danialmd81&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" alt="My GitHub Stats"></td><td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=danialmd81&amp;theme=dracula&amp;date_format=j%20M%5B%20Y%5D" alt="My Contribution Streak"></td></tr></tbody>
+  <tbody><tr><td><img style="border: none; " src="https://github-readme-stats.vercel.app/api?username=danialmd81&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" alt="My GitHub Stats"></td><td><img style="border: none;" src="https://github-readme-streak-stats-delta-eight.vercel.app?user=danialmd81&amp;theme=dracula&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"></td></tr></tbody>
 </table>
   <br>
   <table align="left" width="100%" height="100%">
