@@ -58,10 +58,10 @@
   <h2 class="section-heading" style="color:#808080;font-size:4vw"> 📏 Github Stats</h2>
   <br>
   <table align="left" width="100%" height="100%">
-  <tbody><tr><td><a href="https://github.com/danialmd81/github-readme-stats"><img src="https://github-readme-stats-eight-lyart-37.vercel.app/api?username=danialmd81&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="Danial's GitHub stats"></a></td><td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danialmd81&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak"></a></td></tr></tbody>
+  <tbody><tr><td><a><img src="https://github-readme-stats-eight-lyart-37.vercel.app/api?username=danialmd81&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="Danial's GitHub stats"></a></td><td><a><img src="https://github-readme-streak-stats-iota-ashy.vercel.app?user=danialmd81&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak"></a></td></tr></tbody>
 </table>
   <br>
   <table align="left" width="100%" height="100%">
-  <tbody><tr><td><img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/productive-time?username=danialmd81&amp;theme=radical&amp;utcOffset=3.5" alt="Commits"></td><td><img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/repos-per-language?username=danialmd81&amp;theme=radical" alt="Top Languages by Repo"></td><td><img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/most-commit-language?username=danialmd81&amp;theme=radical" alt="Top Languages by Commit"></td></tr></tbody>
+  <tbody><tr><td><a><img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/productive-time?username=danialmd81&amp;theme=radical&amp;utcOffset=3.5" alt="Commits"></a></td><td><a><img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/repos-per-language?username=danialmd81&amp;theme=radical" alt="Top Languages by Repo"></a></td><td><a><img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/most-commit-language?username=danialmd81&amp;theme=radical" alt="Top Languages by Commit"></a></td></tr></tbody>
 </table>
 </div>
