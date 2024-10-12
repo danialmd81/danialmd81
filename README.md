@@ -54,7 +54,7 @@
 <div align="left">
   <h2 class="section-heading" style="color:#808080; font-size:4vw">📏 GitHub Stats</h2>
   <br>
-  <table align="left" width="100%" height="100%">
+  <table align="center" width="100%" height="100%">
     <tbody>
       <tr>
         <td>
@@ -72,15 +72,15 @@
   </table>
   <br>
   <div align="center">
-    <table width="100%" height="100%" style="padding-left: 2.85cm;">
+    <table width="100%" height="100%" >
       <tbody>
         <tr>
-          <td >
+          <td align="right">
             <a>
               <img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/repos-per-language?username=danialmd81&amp;theme=radical" alt="Top Languages by Repo">
             </a>
           </td>
-          <td >
+          <td align="left">
             <a>
               <img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/most-commit-language?username=danialmd81&amp;theme=radical" alt="Top Languages by Commit">
             </a>
