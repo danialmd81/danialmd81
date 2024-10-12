@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com??font=Jetbrains+mono&amp;size=40&amp;duration=2000&amp;pause=1000&amp;multiline=false&amp;color=75FA61&amp;background=65000000&amp;left=true&amp;vleft=true&amp;random=false&amp;width=1000&amp;lines=Hi+%F0%9F%91%8B...+I'm+Danial; This+is...; My+GitHub+%F0%9F%91%80" alt="Hello gif">
+  <img src="https://readme-typing-svg.demolab.com??font=Jetbrains+mono&size=40&duration=2000&pause=1000&multiline=false&color=75FA61&background=65000000&left=true&vleft=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B...+I'm+Danial; This+is...; My+GitHub+%F0%9F%91%80" alt="Hello gif">
 </div>
 
 <div align="left">
@@ -57,14 +57,14 @@
   <table align="center" width="100%" height="100%">
     <tbody>
       <tr>
-        <td>
+        <td align="right">
           <a>
-            <img src="https://github-readme-stats-eight-lyart-37.vercel.app/api?username=danialmd81&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="Danial's GitHub stats">
+            <img src="https://github-readme-stats-eight-lyart-37.vercel.app/api?username=danialmd81&show_icons=true&theme=radical&hide_border=true" alt="Danial's GitHub stats">
           </a>
         </td>
-        <td>
+        <td align="left">
           <a>
-            <img src="https://github-readme-streak-stats-iota-ashy.vercel.app?user=danialmd81&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak">
+            <img src="https://github-readme-streak-stats-iota-ashy.vercel.app?user=danialmd81&theme=radical&hide_border=true" alt="GitHub Streak">
           </a>
         </td>
       </tr>
@@ -77,12 +77,12 @@
         <tr>
           <td align="right">
             <a>
-              <img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/repos-per-language?username=danialmd81&amp;theme=radical" alt="Top Languages by Repo">
+              <img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/repos-per-language?username=danialmd81&theme=radical" alt="Top Languages by Repo">
             </a>
           </td>
           <td align="left">
             <a>
-              <img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/most-commit-language?username=danialmd81&amp;theme=radical" alt="Top Languages by Commit">
+              <img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/most-commit-language?username=danialmd81&theme=radical" alt="Top Languages by Commit">
             </a>
           </td>
         </tr>
@@ -95,7 +95,7 @@
       <tr>
         <td>
           <a>
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=danialmd81&amp;theme=redical&amp;hide_border=true" alt="Danial's GitHub activity graph">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=danialmd81&theme=redical&hide_border=true" alt="Danial's GitHub activity graph">
           </a>
         </td>
       </tr>
