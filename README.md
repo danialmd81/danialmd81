@@ -3,11 +3,11 @@
 </div>
 
 <div align="left">
-  <h2 style="color:#DC143C ;font-size:4vw">🚀 <b>About Me</b></h2>
+  <h2 style="color:#DC143C ; font-size:4vw">🚀 <b>About Me</b></h2>
   <p>Computer Engineering Student in Isfahan University of Technology.</p>
 </div>
 
-<div align="left"><h2 class="section-heading" style="color:#00FFFF;font-size:4vw">🌐 Reach Me</h2><a href="https://t.me/danialmd81">
+<div align="left"><h2 class="section-heading" style="color:#00FFFF; font-size:4vw">🌐 Reach Me</h2><a href="https://t.me/danialmd81">
   <img src="icons/Telegram.svg" alt="Telegram">
 </a>
 <a href="https://www.linkedin.com/in/danial-mobini-dehkordy/">
@@ -29,7 +29,7 @@
   <img width="50" src="icons/Github-Dark.svg" alt="GitHub">
 </a></div>
 
-<div align="left"><h2 style="color:#7E84F7;font-size:4vw">💻 My Skils </h2><img width="50" src="icons/C.svg"alt="c">
+<div align="left"><h2 style="color:#7E84F7; font-size:4vw">💻 My Skils </h2><img width="50" src="icons/C.svg"alt="c">
   <img width="50" src="icons/CPP.svg" alt= "cpp">
   <img width="50" src="icons/Git.svg" alt="git">
   <img width="50" src="icons/QT-Dark.svg"alt="qt">
@@ -41,7 +41,7 @@
   <img width="50" src="icons/VSCode-Dark.svg"alt="vscode">
   <img width="50" src="icons/Windows-Dark.svg"alt="win">z</div>
 
-<div align="left"><h2 style="color:#A1FB8E;font-size:3vw">🚨 To Learn
+<div align="left"><h2 style="color:#A1FB8E; font-size:3vw">🚨 To Learn
 </h2><img width="50" src="icons/Zig-Dark.svg"alt="zig">
 <img width="50" src="icons/HTML.svg"alt="html>
 <img width="50" src="icons/Perl.svg"alt="perl">
@@ -52,7 +52,7 @@
 <img width="50" src="icons/Docker.svg"alt="doc">
 <img width="50" src="icons/Django.svg"alt="dja"></div>
 <div align="left">
-  <h2 class="section-heading" style="color:#808080;font-size:4vw">📏 GitHub Stats</h2>
+  <h2 class="section-heading" style="color:#808080; font-size:4vw">📏 GitHub Stats</h2>
   <br>
   <table align="left" width="100%" height="100%">
     <tbody>
