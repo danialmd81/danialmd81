@@ -39,7 +39,7 @@
   <img width="50" src="icons/MySQL-Dark.svg"alt="mysql">
   <img width="50" src="icons/PostgreSQL-Dark.svg"alt="psql">
   <img width="50" src="icons/VSCode-Dark.svg"alt="vscode">
-  <img width="50" src="icons/Windows-Dark.svg"alt="win">z</div>
+  <img width="50" src="icons/Windows-Dark.svg"alt="win"></div>
 
 <div align="left"><h2 style="color:#A1FB8E; font-size:3vw">🚨 To Learn
 </h2><img width="50" src="icons/Zig-Dark.svg"alt="zig">
