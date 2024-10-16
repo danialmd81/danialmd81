@@ -24,9 +24,6 @@
 </a>
 <a href="mailto:danialmobinidh81@gmail.com">
   <img width="50" src="icons/Gmail-Dark.svg" alt="Gmail">
-</a>
-<a href="https://github.com/danialmd81">
-  <img width="50" src="icons/Github-Dark.svg" alt="GitHub">
 </a></div>
 
 <div align="left"><h2 style="color:#7E84F7; font-size:4vw">💻 My Skils </h2><img width="50" src="icons/C.svg"alt="c">
