@@ -74,12 +74,12 @@
         <tr>
           <td align="right">
             <a>
-              <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danialmd81&theme=radical" alt="Top Languages by Repo">
+              <img src="http://github-profile-summary-cards-q6g9-danials-projects-5c4a87b8.vercel.app/api/cards/repos-per-language?username=danialmd81&theme=radical" alt="Top Languages by Repo">
             </a>
           </td>
           <td align="left">
             <a>
-              <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danialmd81&theme=radical" alt="Top Languages by Commit">
+              <img src="http://github-profile-summary-cards-q6g9-danials-projects-5c4a87b8.vercel.app/api/cards/most-commit-language?username=danialmd81&theme=radical" alt="Top Languages by Commit">
             </a>
           </td>
         </tr>
