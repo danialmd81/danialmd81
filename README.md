@@ -56,12 +56,12 @@
       <tr>
         <td align="right">
           <a>
-            <img src="https://github-readme-stats-eight-lyart-37.vercel.app/api?username=danialmd81&show_icons=true&theme=radical&hide_border=true" alt="Danial's GitHub stats">
+            <img src="https://github-readme-stats-danials-projects-5c4a87b8.vercel.app//api?username=danialmd81&show_icons=true&theme=radical&hide_border=true" alt="Danial's GitHub stats">
           </a>
         </td>
         <td align="left">
           <a>
-            <img src="https://github-readme-streak-stats-iota-ashy.vercel.app?user=danialmd81&theme=radical&hide_border=true" alt="GitHub Streak">
+            <img src="https://github-readme-streak-stats-danials-projects-5c4a87b8.vercel.app/?user=danialmd81&theme=radical&hide_border=true" alt="GitHub Streak">
           </a>
         </td>
       </tr>
@@ -74,12 +74,12 @@
         <tr>
           <td align="right">
             <a>
-              <img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/repos-per-language?username=danialmd81&theme=radical" alt="Top Languages by Repo">
+              <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danialmd81&theme=radical" alt="Top Languages by Repo">
             </a>
           </td>
           <td align="left">
             <a>
-              <img src="http://github-profile-summary-cards-delta.vercel.app/api/cards/most-commit-language?username=danialmd81&theme=radical" alt="Top Languages by Commit">
+              <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danialmd81&theme=radical" alt="Top Languages by Commit">
             </a>
           </td>
         </tr>
@@ -92,7 +92,7 @@
       <tr>
         <td>
           <a>
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=danialmd81&theme=redical&hide_border=true" alt="Danial's GitHub activity graph">
+            <img src="https://github-readme-activity-graph-danials-projects-5c4a87b8.vercel.app/graph?username=danialmd81&theme=redical&hide_border=true" alt="Danial's GitHub activity graph">
           </a>
         </td>
       </tr>
