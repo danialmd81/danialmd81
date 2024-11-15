@@ -1,7 +1,6 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com??font=Jetbrains+mono&size=40&duration=2000&pause=1000&multiline=false&color=75FA61&background=65000000&left=true&vleft=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B...+I'm+Danial; This+is...; My+GitHub+%F0%9F%91%80" alt="Hello gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&duration=2000&pause=1000&multiline=false&color=75FA61&background=65000000&left=true&vleft=true&random=false&width=1000&height=100&lines=Hi+%F0%9F%91%8B...+I'm+Danial;This+is...;My+GitHub+%F0%9F%91%80" alt="Hello gif">
 </div>
-
 <div align="left">
   <h2 style="color:#DC143C ; font-size:4vw">🚀 <b>About Me</b></h2>
   <p>Computer Engineering Student in Isfahan University of Technology.</p>
