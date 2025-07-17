@@ -60,7 +60,7 @@
         </td>
         <td align="left">
           <a>
-            <img src="https://github-readme-streak-stats-git-main-danials-projects-5c4a87b8.vercel.app/?user=danialmd81&theme=radical&hide_border=true" alt="GitHub Streak">
+            <img src="https://github-readme-streak-stats-git-b57aa3-danials-projects-5c4a87b8.vercel.app//?user=danialmd81&theme=radical&hide_border=true" alt="GitHub Streak">
           </a>
         </td>
       </tr>
