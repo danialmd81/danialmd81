@@ -28,6 +28,7 @@
 <div align="left"><h2 style="color:#7E84F7; font-size:4vw">💻 My Skils </h2><img width="50" src="icons/C.svg"alt="c">
   <img width="50" src="icons/CPP.svg" alt= "cpp">
   <img width="50" src="icons/Git.svg" alt="git">
+  <img width="50" src="icons/Github-Dark.svg" alt="github">
   <img width="50" src="icons/QT-Dark.svg"alt="qt">
   <img width="50" src="icons/GoLang.svg"alt="go">
   <img width="50" src="icons/Python-Dark.svg"alt="py">
@@ -35,17 +36,18 @@
   <img width="50" src="icons/MySQL-Dark.svg"alt="mysql">
   <img width="50" src="icons/PostgreSQL-Dark.svg"alt="psql">
   <img width="50" src="icons/VSCode-Dark.svg"alt="vscode">
-  <img width="50" src="icons/Windows-Dark.svg"alt="win"></div>
+  <img width="50" src="icons/Docker.svg"alt="docker">
+  <img width="50" src="icons/Linux-Dark.svg"alt="linux">
+  <img width="50" src="icons/Nginx.svg"alt="nginx">
 
 <div align="left"><h2 style="color:#A1FB8E; font-size:3vw">🚨 To Learn
 </h2><img width="50" src="icons/Zig-Dark.svg"alt="zig">
-<img width="50" src="icons/HTML.svg"alt="html>
+<img width="50" src="icons/HTML.svg"alt="html">
 <img width="50" src="icons/Perl.svg"alt="perl">
 <img width="50" src="icons/Powershell-Dark.svg"alt="pwsh">
 <img width="50" src="icons/R-Dark.svg"alt="r">
 <img width="50" src="icons/Markdown-Dark.svg"alt="m">
 <img width="50" src="icons/CMake-Dark.svg"alt="cmake">
-<img width="50" src="icons/Docker.svg"alt="doc">
 <img width="50" src="icons/Django.svg"alt="dja"></div>
 <div align="left">
   <h2 class="section-heading" style="color:#808080; font-size:4vw">📏 GitHub Stats</h2>
@@ -55,12 +57,12 @@
       <tr>
         <td align="right">
           <a>
-            <img src="https://github-readme-stats-danials-projects-5c4a87b8.vercel.app//api?username=danialmd81&show_icons=true&theme=radical&hide_border=true" alt="Danial's GitHub stats">
+            <img src="https://github-readme-stats-delta-eight-34.vercel.app//api?username=danialmd81&show_icons=true&theme=radical&hide_border=true" alt="Danial's GitHub stats">
           </a>
         </td>
         <td align="left">
           <a>
-            <img src="https://github-readme-streak-stats-v2-lime.vercel.app/?user=danialmd81&theme=radical&hide_border=true" alt="GitHub Streak">
+            <img src="https://github-readme-streak-stats-loxz.vercel.app/?user=danialmd81&theme=radical&hide_border=true" alt="GitHub Streak">
           </a>
         </td>
       </tr>
@@ -73,12 +75,12 @@
         <tr>
           <td align="right">
             <a>
-              <img src="http://github-profile-summary-cards-q6g9-danials-projects-5c4a87b8.vercel.app/api/cards/repos-per-language?username=danialmd81&theme=radical" alt="Top Languages by Repo">
+              <img src="http://github-profile-summary-cards-lovat-eight.vercel.app/api/cards/repos-per-language?username=danialmd81&theme=radical" alt="Top Languages by Repo">
             </a>
           </td>
           <td align="left">
             <a>
-              <img src="http://github-profile-summary-cards-q6g9-danials-projects-5c4a87b8.vercel.app/api/cards/most-commit-language?username=danialmd81&theme=radical" alt="Top Languages by Commit">
+              <img src="http://github-profile-summary-cards-lovat-eight.vercel.app/api/cards/most-commit-language?username=danialmd81&theme=radical" alt="Top Languages by Commit">
             </a>
           </td>
         </tr>
@@ -91,7 +93,7 @@
       <tr>
         <td>
           <a>
-            <img src="https://github-readme-activity-graph-danials-projects-5c4a87b8.vercel.app/graph?username=danialmd81&theme=redical&hide_border=true" alt="Danial's GitHub activity graph">
+            <img src="https://github-readme-activity-graph-ochre-nu.vercel.app/graph?username=danialmd81&theme=redical&hide_border=true" alt="Danial's GitHub activity graph">
           </a>
         </td>
       </tr>
